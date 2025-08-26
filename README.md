@@ -57,7 +57,7 @@ Hier finden Sie eine Sammlung nützlicher, vom Autor entwickelter Werkzeuge, die
 - **Fortgeschritten (Git):**
   ```bash
   git clone https://github.com/aloth/KI-Buch-Begleitmaterialien.git
-````
+  ````
 
 ### 2. Inhalte erkunden
 
