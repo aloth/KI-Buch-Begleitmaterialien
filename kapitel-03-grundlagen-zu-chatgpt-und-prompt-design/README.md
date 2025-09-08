@@ -25,7 +25,7 @@ Willkommen zu den Begleitmaterialien für Kapitel 3. Hier lernen Sie die Grundla
 -   [ ] **Beispiele zur Orientierung gegeben?** (z.B. "Schreibe im Stil von...")
 -   [ ] **Schritt-für-Schritt-Anweisungen genutzt?** (Bei komplexen Aufgaben den Prozess aufteilen.)
 
-### 3. Wichtiger Hinweis: Nutzungs-Limits bei ChatGPT (Stand 2025)
+### 3. Nutzungs-Limits bei ChatGPT (Stand 2025)
 
 Um das Beste aus ChatGPT herauszuholen, ist es wichtig, die Nutzungs-Limits der verschiedenen Modelle zu kennen. Diese Limits können sich ändern, aber hier ist ein Überblick basierend auf den Informationen für 2025.
 
@@ -50,3 +50,19 @@ Um das Beste aus ChatGPT herauszuholen, ist es wichtig, die Nutzungs-Limits der 
 3.  **API für Automatisierung nutzen:** Für sehr hohe Volumen oder programmgesteuerte Arbeitsabläufe ist die API oft die bessere Wahl.
 
 *Quelle: Detaillierte Informationen und aktuelle Updates finden Sie im Artikel [ChatGPT User Limits for Plus, Team, and Enterprise Users (2025 Guide)](https://alexloth.com/chatgpt-user-limits-2025/).*
+
+### 4. Nutzungslimits der Gemini App (Stand 2025)
+
+Auch die Gemini App von Google unterliegt je nach gewähltem Abo unterschiedlichen Nutzungslimits. Die folgende Tabelle gibt einen Überblick über die verschiedenen Stufen.
+
+| Funktion | Gemini App (kostenlos) | Gemini App mit Google AI Pro | Gemini App mit Google AI Ultra |
+| :--- | :--- | :--- | :--- |
+| **Prompts / Tag (2.5 Pro)** | Bis zu 5 | Bis zu 100 | Bis zu 500 |
+| **Prompts / Tag (2.5 Flash)** | Allgemeiner Zugriff | Allgemeiner Zugriff | Allgemeiner Zugriff |
+| **Audio-Zusammenfassungen**| Bis zu 20 / Tag | Bis zu 20 / Tag | Bis zu 20 / Tag |
+| **Deep Research** | Bis zu 5 Berichte / Monat | Bis zu 20 Berichte / Tag | Bis zu 200 Berichte / Tag |
+| **Deep Think** | - | - | Bis zu 10 Prompts / Tag |
+| **Bilderzeugung & -bearbeitung**| Bis zu 100 Bilder / Tag | Bis zu 1.000 Bilder / Tag | Bis zu 1.000 Bilder / Tag |
+| **Videogenerierung** | - | Bis zu 3 Videos / Tag | Bis zu 5 Videos / Tag |
+
+*Beachten Sie, dass diese Limits sich ändern können und von dem jeweils ausgewählten Modell abhängig sind. Die Abos "Pro" und "Ultra" bieten zudem priorisierten Zugriff auf neue Funktionen.*
