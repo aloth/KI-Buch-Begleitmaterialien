@@ -1,13 +1,15 @@
 # KI für Content Creation: Begleitmaterialien zum Buch  
 
 [![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg)](LICENSE)
-[![GitHub Issues](https://img.shields.io/github/issues/aloth/KI-Buch-Begleitmaterialien)](https://github.com/aloth/KI-Buch-Begleitmaterialien/issues)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/DasBuch?style=social)](https://x.com/DasBuch)
+[![Website zum Buch](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/ki-buch/)
+[![Follow on X](https://img.shields.io/twitter/follow/DasBuch?style=social)](https://x.com/DasBuch)
 
 > **Offizielle Beispiele, Prompt-Vorlagen und Ressourcen zum Bestseller *KI für Content Creation*.**  
 > Alles, was Sie brauchen, um die Konzepte aus dem Buch direkt auszuprobieren.
 
-![KI für Content Creation](https://alexloth.com/wp-content/uploads/2023/12/KIBuch-KI-Content-Creation.png)
+<p align="center">
+  <img src="https://alexloth.com/wp-content/uploads/2023/12/KIBuch-KI-Content-Creation.png" alt="Book cover: KI für Content Creation by Alexander Loth" width="420" />
+</p>
 
 ---
 
@@ -77,16 +79,17 @@ Dieses Repository ist ein **lebendiges Projekt** und wird regelmäßig erweitert
 
 ## 📚 Zitieren
 
-Wenn Sie Inhalte aus *KI für Content Creation* in wissenschaftlichen Arbeiten verwenden:
+Wenn Sie Inhalte aus *KI für Content Creation* in wissenschaftlichen Arbeiten verwenden, nutzen Sie bitte diesen BibTeX-Eintrag:
 
 ```bibtex
-@book{Loth2024,
-  author    = {Alexander Loth},
-  title     = {KI für Content Creation: Texte, Bilder, Audio erstellen mit ChatGPT & Co.},
-  publisher = {mitp},
-  year      = {2024},
-  isbn      = {978-3747508206},
-  url       = {https://alexloth.com/ki-buch/}
+@book{loth_2024_contentcreation,
+	title        = {KI für Content Creation: Texte, Bilder, Audio erstellen mit ChatGPT & Co.},
+	shorttitle   = {KI für Content Creation},
+	author       = {Loth, Alexander},
+	year         = {2024},
+	publisher    = {MITP-Verlags GmbH \& Co. KG},
+	isbn         = {978-3-747-50820-6},
+	url          = {https://alexloth.com/ki-buch/}
 }
 ```
 
@@ -94,10 +97,12 @@ Wenn Sie Inhalte aus *KI für Content Creation* in wissenschaftlichen Arbeiten v
 
 ## 👤 Über den Autor
 
-**Alexander Loth** ist Data Scientist und Digital Strategist mit über 14 Jahren Erfahrung in KI, Data & Cloud.
-Er berät Unternehmen und Organisationen bei ihrer digitalen Transformation und ist Autor mehrerer Bestseller.
+**Alexander Loth** ist Data Scientist und Digital Strategist mit über 15 Jahren Erfahrung in KI, Data & Cloud.
+Er berät Unternehmen und Organisationen bei ihrer digitalen Transformation und ist Autor mehrerer Fachbücher.
 
-🌐 [Website](https://alexloth.com/) · 💼 [LinkedIn](https://www.linkedin.com/in/aloth/) · ✖️ [X](https://x.com/xlth)
+[![Website](https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square)](https://alexloth.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aloth-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aloth/)
+[![X (Twitter)](https://img.shields.io/badge/Follow-@xlth-black?style=flat-square&logo=x)](https://x.com/xlth)
 
 ---
 
