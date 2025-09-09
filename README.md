@@ -11,6 +11,8 @@
   <img src="https://alexloth.com/wp-content/uploads/2023/12/KIBuch-KI-Content-Creation.png" alt="Book cover: KI für Content Creation by Alexander Loth" width="420" />
 </p>
 
+**Buch kaufen:** [mitp](https://www.mitp.de/BUSINESS/KI-fuer-Content-Creation.html) · [Amazon](https://www.amazon.de/KI-f%C3%BCr-Content-Creation-erstellen/dp/3747508200) · Mehr Infos auf der [Buch-Website](https://alexloth.com/ki-buch/)
+
 ---
 
 ## 📖 Über das Buch  
@@ -19,7 +21,15 @@
 
 Das Buch richtet sich an Einsteiger wie auch an Profis und erfordert weder Programmierkenntnisse noch mathematisches Vorwissen.  
 
-👉 [Mehr Infos zum Buch](https://alexloth.com/ki-buch/)  
+🔗 Mehr Infos: [alexloth.com/ki-buch](https://alexloth.com/ki-buch/)
+
+---
+
+## 🎁 Exklusive Partner-Angebote
+
+Als Leser dieses Buches erhalten Sie Zugang zu exklusiven Vorteilen und Angeboten.
+
+🔗 **[Zu den Partner-Angeboten](PARTNER_ANGEBOTE.md)**
 
 ---
 
@@ -112,4 +122,6 @@ Diese Materialien stehen unter der [MIT-Lizenz](LICENSE).
 
 ---
 
-✨ Viel Erfolg mit Ihren KI-Projekten – und vielen Dank, dass Sie *KI für Content Creation* lesen!
+⭐️ **Tipp:** Wenn Ihnen diese Materialien helfen, geben Sie bitte dem Repository einen **Stern** auf GitHub!
+
+**Viel Erfolg** mit Ihren KI-Projekten – und vielen Dank, dass Sie *KI für Content Creation* lesen!
