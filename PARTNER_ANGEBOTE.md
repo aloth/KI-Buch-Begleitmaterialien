@@ -16,7 +16,7 @@ Als Leser erhalten Sie ein kostenloses 3-Monats-Abonnement für die Pro-Version 
 
 #### So lösen Sie das Angebot ein:
 
-1.  Laden Sie die Mindful Coffee App aus dem [Apple App Store](https://apps.apple.com/us/app/mindful-coffee-tracks-caffeine/id6742878005) herunter.
+1.  Laden Sie die Mindful Coffee App aus dem [Apple App Store](https://apps.apple.com/us/app/mindful-coffee-tracks-caffeine/id6742878005?platform=iphone) herunter.
 2.  Öffnen Sie die App und tippen Sie unten rechts auf den Reiter **"Einstellungen"**.
 3.  Wählen Sie die Option **"Organisations-Abo verknüpfen"**.
 4.  Geben Sie als Name des Unternehmens ein: `KIBuch`
