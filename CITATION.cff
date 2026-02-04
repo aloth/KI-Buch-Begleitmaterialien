@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this book in your research, please cite it as below."
+type: book
+title: "KI für Content Creation: Texte, Bilder, Audio erstellen mit ChatGPT & Co."
+authors:
+  - family-names: Loth
+    given-names: Alexander
+    orcid: https://orcid.org/0000-0003-4157-7557
+date-released: 2024-01-01
+year: 2024
+publisher:
+  name: mitp
+  city: Frechen
+isbn: 978-3-7475-0820-6
+url: https://alexloth.com/ki-buch/
+repository-code: https://github.com/aloth/KI-Buch-Begleitmaterialien
+keywords:
+  - artificial intelligence
+  - content creation
+  - ChatGPT
+  - generative AI
+license: CC-BY-4.0

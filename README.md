@@ -91,14 +91,15 @@ Dieses Repository ist ein **lebendiges Projekt** und wird regelmäßig erweitert
 Wenn Sie Inhalte aus *KI für Content Creation* in wissenschaftlichen Arbeiten verwenden, nutzen Sie bitte diesen BibTeX-Eintrag:
 
 ```bibtex
-@book{loth_2024_contentcreation,
-	title        = {KI für Content Creation: Texte, Bilder, Audio erstellen mit ChatGPT & Co.},
-	shorttitle   = {KI für Content Creation},
-	author       = {Loth, Alexander},
-	year         = {2024},
-	publisher    = {MITP-Verlags GmbH \& Co. KG},
-	isbn         = {978-3-747-50820-6},
-	url          = {https://alexloth.com/ki-buch/}
+@book{loth2024kicontent,
+  title      = {KI für Content Creation: Texte, Bilder, Audio erstellen mit ChatGPT \& Co.},
+  shorttitle = {KI für Content Creation},
+  author     = {Loth, Alexander},
+  year       = {2024},
+  publisher  = {mitp},
+  address    = {Frechen},
+  isbn       = {978-3-7475-0820-6},
+  url        = {https://alexloth.com/ki-buch/}
 }
 ```
 
