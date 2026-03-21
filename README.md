@@ -80,9 +80,11 @@ Hier finden Sie eine Sammlung nützlicher, vom Autor entwickelter Werkzeuge, die
 
 ## 🤝 Mitwirken & Feedback
 
-Dieses Repository ist ein **lebendiges Projekt** und wird regelmäßig erweitert.
+Dieses Repository ist ein **lebendiges Projekt** und wird regelmäßig erweitert. Nutzen Sie unsere Issue-Vorlagen:
 
-* 💡 **Fragen oder Fehler melden:** [Neues Issue erstellen](https://github.com/aloth/KI-Buch-Begleitmaterialien/issues)
+* 📖 **[Erratum melden](https://github.com/aloth/KI-Buch-Begleitmaterialien/issues/new?template=erratum.yml)** — Fehler im Buch
+* ❓ **[Frage stellen](https://github.com/aloth/KI-Buch-Begleitmaterialien/issues/new?template=frage.yml)** — Verständnisfragen zu Kapiteln oder Beispielen
+* 💻 **[Code-Problem melden](https://github.com/aloth/KI-Buch-Begleitmaterialien/issues/new?template=code-problem.yml)** — Probleme mit dem Begleitmaterial
 
 ---
 
