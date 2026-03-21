@@ -1,0 +1,36 @@
+name: "\U0001F4BB Code-Problem"
+description: Problem mit dem Begleitmaterial
+labels: ["code-problem"]
+body:
+  - type: input
+    id: datei
+    attributes:
+      label: Betroffene Datei
+      description: Welche Datei oder welches Beispiel funktioniert nicht?
+      placeholder: z.B. Kapitel03/Beispiel_DAX.pbix
+    validations:
+      required: true
+  - type: input
+    id: kapitel
+    attributes:
+      label: Zugehoeriges Kapitel / Seite
+      placeholder: z.B. Kapitel 3, Seite 47
+  - type: textarea
+    id: fehlermeldung
+    attributes:
+      label: Fehlermeldung
+      description: Welche Fehlermeldung erhalten Sie?
+      render: shell
+    validations:
+      required: true
+  - type: textarea
+    id: schritte
+    attributes:
+      label: Schritte zur Reproduktion
+      description: Was haben Sie gemacht, bevor der Fehler auftrat?
+  - type: input
+    id: umgebung
+    attributes:
+      label: Software-Version
+      description: Welche Version nutzen Sie?
+      placeholder: z.B. Power BI Desktop Juni 2024 / Tableau 2024.1

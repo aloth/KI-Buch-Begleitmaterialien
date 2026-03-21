@@ -1,0 +1,29 @@
+name: "\u2753 Frage zum Buch"
+description: "Verst\xE4ndnisfrage zu einem Kapitel oder Beispiel"
+labels: ["frage"]
+body:
+  - type: input
+    id: kapitel
+    attributes:
+      label: Kapitel / Abschnitt
+      description: Auf welches Kapitel oder Beispiel bezieht sich Ihre Frage?
+      placeholder: z.B. Kapitel 5, Abschnitt "DAX-Formeln"
+    validations:
+      required: true
+  - type: input
+    id: seite
+    attributes:
+      label: Seite (optional)
+      placeholder: z.B. 123
+  - type: textarea
+    id: frage
+    attributes:
+      label: Ihre Frage
+      description: Was genau ist unklar?
+    validations:
+      required: true
+  - type: textarea
+    id: kontext
+    attributes:
+      label: Was haben Sie bereits versucht? (optional)
+      description: Beschreiben Sie, was Sie schon probiert haben.

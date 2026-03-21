@@ -1,0 +1,36 @@
+name: "\U0001F4D6 Erratum"
+description: Fehler im Buch melden
+labels: ["erratum"]
+body:
+  - type: input
+    id: seite
+    attributes:
+      label: Seite
+      description: Auf welcher Seite befindet sich der Fehler?
+      placeholder: z.B. 47
+    validations:
+      required: true
+  - type: input
+    id: kapitel
+    attributes:
+      label: Kapitel
+      description: In welchem Kapitel?
+      placeholder: z.B. Kapitel 3
+  - type: input
+    id: auflage
+    attributes:
+      label: Auflage / Edition
+      description: Welche Auflage haben Sie?
+      placeholder: z.B. 1. Auflage 2024
+  - type: textarea
+    id: beschreibung
+    attributes:
+      label: Fehlerbeschreibung
+      description: Was stimmt nicht? Bitte zitieren Sie die fehlerhafte Stelle.
+    validations:
+      required: true
+  - type: textarea
+    id: korrektur
+    attributes:
+      label: Korrekturvorschlag
+      description: Wie sollte es richtig lauten? (optional)
